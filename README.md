@@ -1,13 +1,5 @@
+#김기원 조하은 결혼합니다!
 
-<head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta property="og:image" content="assets/img/url-main.jpg">
-        <meta property="og:description" content="2024.03.01 김기원 조하은 결혼합니다!."/>
-        <meta charset="utf-8" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>김기원 조하은 결혼합니다!</title>
-        
 ![Image](https://github.com/user-attachments/assets/f989f182-d1ee-425f-b3ac-4199a3c248d0)
 ![Image](https://github.com/user-attachments/assets/956b214f-29ca-4f72-b716-0d6a99e733cd)
 ![Image](https://github.com/user-attachments/assets/74d5bd4d-86dc-4d31-b8c6-dda919ed7a01)
